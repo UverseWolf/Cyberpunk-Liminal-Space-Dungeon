@@ -1,0 +1,1152 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.38f1 (8f5fde82e2dc) revision 9396190'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 8119 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GameKitLiteSP20_3/GameKitLiteSP20/GameKitLite2020/GameKitLite
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56538
+Successfully changed project path to: D:/GameKitLiteSP20_3/GameKitLiteSP20/GameKitLite2020/GameKitLite
+D:/GameKitLiteSP20_3/GameKitLiteSP20/GameKitLite2020/GameKitLite
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 860.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.38f1 (8f5fde82e2dc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GameKitLiteSP20_3/GameKitLiteSP20/GameKitLite2020/GameKitLite/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   
+    VRAM:     4043 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56328
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.110416 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.378 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5378ms)
+		BeginReloadAssembly (4036ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (998ms)
+			LoadAssemblies (4034ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (607ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (215ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (98ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 1.203429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.718 seconds
+Domain Reload Profiling:
+	ReloadAssembly (10728ms)
+		BeginReloadAssembly (199ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (10445ms)
+			LoadAssemblies (6582ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1434ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (2226ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (1138ms)
+				ProcessInitializeOnLoadMethodAttributes (975ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.77 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.8 MB.
+System memory in use after: 193.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3186.
+Total: 3.562700 ms (FindLiveObjects: 0.259800 ms CreateObjectMapping: 0.172600 ms MarkObjects: 2.949000 ms  DeleteObjects: 0.180700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/3DGamekitLite/Audio/Mixers/ResonanceAudioMixer.mixer
+  artifactKey: Guid(248799cb4acba48f7b3ee842a80f788c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Audio/Mixers/ResonanceAudioMixer.mixer using Guid(248799cb4acba48f7b3ee842a80f788c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d52cec4f8783a10af9c9c2f5fe30776') in 1.179033 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.526 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1526ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (1215ms)
+			LoadAssemblies (211ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (408ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (453ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (337ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.0 MB.
+System memory in use after: 186.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3191.
+Total: 3.423700 ms (FindLiveObjects: 0.269100 ms CreateObjectMapping: 0.147700 ms MarkObjects: 2.936300 ms  DeleteObjects: 0.069500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 812.551146 seconds.
+  path: Assets/3DGamekitLite/Audio/Mixers/ResonanceAudioMixer.mixer
+  artifactKey: Guid(248799cb4acba48f7b3ee842a80f788c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Audio/Mixers/ResonanceAudioMixer.mixer using Guid(248799cb4acba48f7b3ee842a80f788c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaeff327b50744dacc82294ba8d0ec89') in 0.213325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 480.116258 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/Acid.mat
+  artifactKey: Guid(200ee9888db3e7145a31185ba6a0bdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/Acid.mat using Guid(200ee9888db3e7145a31185ba6a0bdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '898d909908e8dd0442138fbaeb1c0056') in 0.473404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Spitter/Spitter_Acid_Particle_Mat.mat
+  artifactKey: Guid(6bf795c07ada0594f8f064dd364759dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Spitter/Spitter_Acid_Particle_Mat.mat using Guid(6bf795c07ada0594f8f064dd364759dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '745229768197f427910b5c730bfde6f2') in 8.991611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/ShockWave.fbx
+  artifactKey: Guid(ea4900fb19beef44a89d2450de9db58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/ShockWave.fbx using Guid(ea4900fb19beef44a89d2450de9db58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9f98653b3b1eb07871794e926c8d47') in 0.591322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitFrontRight.fbx
+  artifactKey: Guid(404644dc800da814b941c3e7c306379d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitFrontRight.fbx using Guid(404644dc800da814b941c3e7c306379d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ad478097168492176612516a00e986') in 1.393224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Ellen_Shield_Effect_Mat.mat
+  artifactKey: Guid(bd205874a3755d842a8f600a04b64902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Ellen_Shield_Effect_Mat.mat using Guid(bd205874a3755d842a8f600a04b64902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0fc1df3b49b9095122a9f8e175fbc2e') in 3.181158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Characters/Chomper/Chomper.FBX
+  artifactKey: Guid(2732fe64dd2799f439fb845921df626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Characters/Chomper/Chomper.FBX using Guid(2732fe64dd2799f439fb845921df626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78883bd2bc4523c7109c22a50725052e') in 4.509701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/3DGamekitLite/Prefabs/VFX/Characters/Enemies/Spitter/Spit.prefab
+  artifactKey: Guid(294784d1e17ec8b45bed8a0790b0369b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/VFX/Characters/Enemies/Spitter/Spit.prefab using Guid(294784d1e17ec8b45bed8a0790b0369b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f381d79bcd55af5becaa6f510703939') in 18.584720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/3DGamekitLite/Prefabs/SceneControl/SceneController.prefab
+  artifactKey: Guid(d88be276a1e4d2d4da0e24014ff53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/SceneControl/SceneController.prefab using Guid(d88be276a1e4d2d4da0e24014ff53616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ab3918bfaf2d9c7d8850b7d1f310f8') in 1.839945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/TriPlanar Texture Blend.mat
+  artifactKey: Guid(e818da0e6cc43a54db59506b8472fe03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/TriPlanar Texture Blend.mat using Guid(e818da0e6cc43a54db59506b8472fe03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a1a0d8630a45385030da0d020285c8') in 7.317254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/3DGamekitLite/Prefabs/VFX/Characters/Enemies/Spitter/AcidSplash.prefab
+  artifactKey: Guid(2a50a8340ead34c4a889cf99e9e35db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/VFX/Characters/Enemies/Spitter/AcidSplash.prefab using Guid(2a50a8340ead34c4a889cf99e9e35db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86631a3d93398ff551d8883c709fffea') in 0.997408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Texture Blend with Vertex Color.mat
+  artifactKey: Guid(4b0cb7a0afb01f54da4afe707dc48a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Texture Blend with Vertex Color.mat using Guid(4b0cb7a0afb01f54da4afe707dc48a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee10ffcf065160e83912aeea21576da') in 3.298808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Unlit Texture Blend With Snow.mat
+  artifactKey: Guid(e9e6204f9f317e1459c9ac03eb411466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Unlit Texture Blend With Snow.mat using Guid(e9e6204f9f317e1459c9ac03eb411466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cea352fe730c4e4f19d023bf89c7c4') in 0.281284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo4.fbx
+  artifactKey: Guid(6fd1fb8479e6a994f9e4cc7fb79d2ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo4.fbx using Guid(6fd1fb8479e6a994f9e4cc7fb79d2ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1835eda82727c799eb1cce2d170f9ca8') in 0.446814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Font/Roboto-Light.ttf
+  artifactKey: Guid(1e83a20c1a2134c698b9c8774172ba09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Font/Roboto-Light.ttf using Guid(1e83a20c1a2134c698b9c8774172ba09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dcd291639587ac32b1d9c0752ea2e69') in 0.298841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo2.fbx
+  artifactKey: Guid(506fbaf36141f7842ad5ad583349cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo2.fbx using Guid(506fbaf36141f7842ad5ad583349cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150b1819981771faf4cfd3d614b62a5a') in 0.400286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3DGamekitLite/Prefabs/SceneControl/TransitionDestination.prefab
+  artifactKey: Guid(1152fe60999d70d40886ac96674ad174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/SceneControl/TransitionDestination.prefab using Guid(1152fe60999d70d40886ac96674ad174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb34a394eb8824ac49f73df3bb3862d6') in 0.167379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRunForward.fbx
+  artifactKey: Guid(591b8bf650e73d641a396d03b9f6af89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRunForward.fbx using Guid(591b8bf650e73d641a396d03b9f6af89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41f5e7d7f3200cf59c5a1d2917e91f3') in 9.765415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitFront.fbx
+  artifactKey: Guid(62b2a28a812b9b146916a9cd1a84f0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitFront.fbx using Guid(62b2a28a812b9b146916a9cd1a84f0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb57af6bfa145cf356c4602ac112b410') in 0.397802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Weapons/Staff_Mat.mat
+  artifactKey: Guid(0e974c7294e486e4cb42482e61c0c4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Weapons/Staff_Mat.mat using Guid(0e974c7294e486e4cb42482e61c0c4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfaa64d9b786410ebdb1f2b26398fa3') in 2.324105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Hit_Particle_02_Mat.mat
+  artifactKey: Guid(0f4efccdf378e6147af35229e90f220f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Hit_Particle_02_Mat.mat using Guid(0f4efccdf378e6147af35229e90f220f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcdbb78f9fb95ed17c0fb2beef1408b9') in 3.609371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/BoxDebris.mat
+  artifactKey: Guid(3930d7b21ea60ef4d999115dbc45e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/BoxDebris.mat using Guid(3930d7b21ea60ef4d999115dbc45e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e126f48cd96f606f024838a223bb668') in 7.181082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Packages/com.unity.probuilder/Content/Material/Checker.mat
+  artifactKey: Guid(4717b199010ca4cb3a8a7a465ec457d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Material/Checker.mat using Guid(4717b199010ca4cb3a8a7a465ec457d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55eb89920a5b2ca667405780666c01b7') in 2.046474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperIdle.fbx
+  artifactKey: Guid(ab5bda48f8799bb4f84ab060e69f60a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperIdle.fbx using Guid(ab5bda48f8799bb4f84ab060e69f60a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9f2d2402924ea30a60eac38cd205af') in 10.017115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Key.mat
+  artifactKey: Guid(bd0d44fb1c135a140a1d35898b0252b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Key.mat using Guid(bd0d44fb1c135a140a1d35898b0252b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5394c2b5e3c55db56720da2dce459e3c') in 5.465314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001136 seconds.
+  path: Assets/3DGameKitLite_Third-PartyNotice.txt
+  artifactKey: Guid(702e43600f5616c4c985f8bf481a4c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGameKitLite_Third-PartyNotice.txt using Guid(702e43600f5616c4c985f8bf481a4c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734e8f709235aa0458008a0441417851') in 0.699761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/PanelCanvas.prefab
+  artifactKey: Guid(2208ab824ba66ab4eaafed9162a13177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/PanelCanvas.prefab using Guid(2208ab824ba66ab4eaafed9162a13177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a11dcea0c64328fd50175e941826c26') in 5.326792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRunForwardLanding.fbx
+  artifactKey: Guid(69d6fb34dcfd40d47b53a45b6666faa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRunForwardLanding.fbx using Guid(69d6fb34dcfd40d47b53a45b6666faa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd64e4f149eb7e61a7a5c7b583ffb014') in 4.856776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Acid_Bubble.fbx
+  artifactKey: Guid(11439605072ba3e4e9bc203d98835b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Acid_Bubble.fbx using Guid(11439605072ba3e4e9bc203d98835b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d008894420e96fd7531745681cd408') in 6.876607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrateInactive.mat
+  artifactKey: Guid(17a74306442c58a4bbc1dce364a20d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrateInactive.mat using Guid(17a74306442c58a4bbc1dce364a20d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77162802c89ed79874b1ac756f9db8b2') in 0.358839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenWalkForwardsLanding.fbx
+  artifactKey: Guid(51bed775c3e211e4d9fd33e30054478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenWalkForwardsLanding.fbx using Guid(51bed775c3e211e4d9fd33e30054478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee7195abc4416f0a17cbc7f550940c6') in 6.445453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/HealthIcon.prefab
+  artifactKey: Guid(5e2d966f076c6144ba1b3f112e14ede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/HealthIcon.prefab using Guid(5e2d966f076c6144ba1b3f112e14ede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74475866002d25627d57fdd9ad9ec09b') in 1.653210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/3DGamekitLite/Prefabs/SceneControl/TransitionStart.prefab
+  artifactKey: Guid(975d12c1f4445fe47afe0bf925747270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/SceneControl/TransitionStart.prefab using Guid(975d12c1f4445fe47afe0bf925747270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8776a30205326fcb26b07975952e3bc3') in 0.173212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Plane.obj
+  artifactKey: Guid(8c2048d8a8db6804e827515435db0261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Plane.obj using Guid(8c2048d8a8db6804e827515435db0261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0c45f5e5975d3caf2e0e932f535888') in 0.331212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Characters/Spitter/Spitter.fbx
+  artifactKey: Guid(3a3cea986292c2445a02c973a48c7e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Characters/Spitter/Spitter.fbx using Guid(3a3cea986292c2445a02c973a48c7e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8af3056b977b0314431b3c13ccd3b70') in 0.769890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperAttack.fbx
+  artifactKey: Guid(257e753645ba2954ca2439c671e5337b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperAttack.fbx using Guid(257e753645ba2954ca2439c671e5337b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878eb3592be9c75cd24f74384e2264ed') in 1.598569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Torus.obj
+  artifactKey: Guid(5f47da8e7a8af5645a675a62f3e96667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Torus.obj using Guid(5f47da8e7a8af5645a675a62f3e96667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf374de5ce0f4a6226096d3d7f2d4aee') in 12.706744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend.mat
+  artifactKey: Guid(ea967189b0a1c0a43a5ffae62ae761f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend.mat using Guid(ea967189b0a1c0a43a5ffae62ae761f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1823a57feeba604948da0332760fbb') in 10.480617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Spitter/@SpitterSpit.fbx
+  artifactKey: Guid(ae9ad6fb845fa9841918e44e215ef2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Spitter/@SpitterSpit.fbx using Guid(ae9ad6fb845fa9841918e44e215ef2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4487a72583e52c03c9641521c9cfee11') in 7.028828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Custom_Quad.fbx
+  artifactKey: Guid(84e6f1182ccfe8b49823ffcb03e512a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Custom_Quad.fbx using Guid(84e6f1182ccfe8b49823ffcb03e512a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe70557b4abf46e1aa6a1d9b91d1ab5') in 6.360191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/FacePickerHDRP.mat
+  artifactKey: Guid(a53ef0dd76f2fe74eb5f43267d7c0195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/FacePickerHDRP.mat using Guid(a53ef0dd76f2fe74eb5f43267d7c0195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db410ac1d4fd614ca1e9054f1f853b4') in 0.326994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/UnlitVertexColor.mat
+  artifactKey: Guid(29966c3c0907b49b58c4e59342d020cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/UnlitVertexColor.mat using Guid(29966c3c0907b49b58c4e59342d020cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d67c74772a4d2b108477e88e98607e') in 0.325667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/3DGamekitLite/Prefabs/SceneControl/ScreenFader.prefab
+  artifactKey: Guid(4c0a7341bc0c0aa4b8c5563337500b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/SceneControl/ScreenFader.prefab using Guid(4c0a7341bc0c0aa4b8c5563337500b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8879606bedc058359923b44a8ee49d09') in 0.230357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRandomIdle3.fbx
+  artifactKey: Guid(6bddc2fb042e88f4190b861b198db1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRandomIdle3.fbx using Guid(6bddc2fb042e88f4190b861b198db1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593f271befee1ddb9856f8fabf43ce8f') in 0.455430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/3DGamekitLite/Gizmos/Cinemachine/cm_logo_lg.png
+  artifactKey: Guid(fe24244309d99eb42a576e1587fb3b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Gizmos/Cinemachine/cm_logo_lg.png using Guid(fe24244309d99eb42a576e1587fb3b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcf6f69ec2bc2f9d3e30d84d4236104f') in 0.349541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Spitter/Spitter_Projectile_Mat.mat
+  artifactKey: Guid(6f4f80c58fd00ff43939f8bd6c158967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Spitter/Spitter_Projectile_Mat.mat using Guid(6f4f80c58fd00ff43939f8bd6c158967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a9cf78926f93714f826635b0ce26e1') in 0.301792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Unlit Texture Blend.mat
+  artifactKey: Guid(71394c8946de80f4c8a68b2bb3e0ddc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Unlit Texture Blend.mat using Guid(71394c8946de80f4c8a68b2bb3e0ddc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f901b3f9a7796e8701e0597c8e2cdc') in 0.828125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/3DGamekitLite/Packages/SimpleSFX/Prefabs/Rustle.prefab
+  artifactKey: Guid(51aaa685a5768496387bd9258f19db48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/SimpleSFX/Prefabs/Rustle.prefab using Guid(51aaa685a5768496387bd9258f19db48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be8d3a2aaaa8ff5d297fe9de1ba176e') in 0.162582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperRunForward.fbx
+  artifactKey: Guid(1e35373135394fa45852a3e55ba00889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperRunForward.fbx using Guid(1e35373135394fa45852a3e55ba00889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8f1037793f52f660e542f76b321346') in 0.425237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/GameOverCanvas.prefab
+  artifactKey: Guid(2cb597c059c0637489d7a3309e26cb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/GameOverCanvas.prefab using Guid(2cb597c059c0637489d7a3309e26cb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efd46ad675ea4b7456b7bcfed8524b8') in 0.387968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/VertexPickerHDRP.mat
+  artifactKey: Guid(7d5c9fc287a2aa945a98203d41282923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/VertexPickerHDRP.mat using Guid(7d5c9fc287a2aa945a98203d41282923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59336e94d8375d6b85f456c169a159aa') in 0.819491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Teleport_Plane.fbx
+  artifactKey: Guid(e884aeb3741cefc47a5dd414b5bf7701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Teleport_Plane.fbx using Guid(e884aeb3741cefc47a5dd414b5bf7701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73b945839b75490861ee6ae2d263fd3') in 0.701065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/HealthCrateParticles.mat
+  artifactKey: Guid(8dc06b0d129fb09468190a4365074f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/HealthCrateParticles.mat using Guid(8dc06b0d129fb09468190a4365074f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66b37d2e97457105f98afeda7ae6aa5') in 0.764817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenQuickTurnRight.fbx
+  artifactKey: Guid(3aa06abc72aea9e4bb96a7adbc69536b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenQuickTurnRight.fbx using Guid(3aa06abc72aea9e4bb96a7adbc69536b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199057232ced5a0d4c268cd5ae24bd65') in 1.504321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/3DGamekit/Prefabs/Interactables/WeaponPedestal.prefab
+  artifactKey: Guid(85adcca5f35f38c46b713feae8b31784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekit/Prefabs/Interactables/WeaponPedestal.prefab using Guid(85adcca5f35f38c46b713feae8b31784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8153a09c52360dc8853d37801d48a51b') in 0.486456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-SemiBold.ttf
+  artifactKey: Guid(3f7a3236435eb074fa1cc0b91daae0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-SemiBold.ttf using Guid(3f7a3236435eb074fa1cc0b91daae0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4401721d5199e222d89f9dab1faaec8') in 0.325489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Dissolve_Particle_Mat.mat
+  artifactKey: Guid(67a564850ea57ff4da16adc9c5807406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Dissolve_Particle_Mat.mat using Guid(67a564850ea57ff4da16adc9c5807406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9225dd0f04cf5581fb424a48da5102c7') in 0.391973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperWalkForward.fbx
+  artifactKey: Guid(207dc8692867d714ab049ba3b95ff920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperWalkForward.fbx using Guid(207dc8692867d714ab049ba3b95ff920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908abac91b5210e428f71e41febd82cf') in 1.313114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitFrontLeft.fbx
+  artifactKey: Guid(b7e13748b64e49b438b795a58809535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitFrontLeft.fbx using Guid(b7e13748b64e49b438b795a58809535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96cd7bcbe4df7a15167f7f871e6f6d1c') in 8.039242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3DGamekitLite/Gizmos
+  artifactKey: Guid(3873d94ec7e23ef46a0e897242cf5835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Gizmos using Guid(3873d94ec7e23ef46a0e897242cf5835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b133b4edfb5fc5916f9101fde725c5') in 1.157312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Diffuse Vertex Color.mat
+  artifactKey: Guid(b146d6b7e282d714ebd02b53cb9dccdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Diffuse Vertex Color.mat using Guid(b146d6b7e282d714ebd02b53cb9dccdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c83b5869ef5841ea310b0365c2934e') in 0.301989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Vertex Color.mat
+  artifactKey: Guid(c26ee644ccf36f14f80cc7af4f8e1ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Vertex Color.mat using Guid(c26ee644ccf36f14f80cc7af4f8e1ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc423a29afc9c4c87d43bde62da22f84') in 0.328476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Font/Roboto-Black.ttf
+  artifactKey: Guid(8f3c1da824c384cacad7fbd2686c5ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Font/Roboto-Black.ttf using Guid(8f3c1da824c384cacad7fbd2686c5ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50b50c0ba8861e32c73f1afde8d3389') in 1.206294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Light.ttf
+  artifactKey: Guid(e44bb575ee780e84e98f1e161744eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Light.ttf using Guid(e44bb575ee780e84e98f1e161744eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98aebe78907af88e893b7b69e8a91dfa') in 0.350761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Particle_Mat.mat
+  artifactKey: Guid(b5c5f3cd82bfc524f94fff54f79e4010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Particle_Mat.mat using Guid(b5c5f3cd82bfc524f94fff54f79e4010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fac9041e58ed19c9f1055dcad350af') in 0.339645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitBack.fbx
+  artifactKey: Guid(ef55d1093a664e447940f6fade733a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitBack.fbx using Guid(ef55d1093a664e447940f6fade733a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99df4da09badfbc381856be9472151cc') in 0.416771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenIdleLandFast.fbx
+  artifactKey: Guid(e6a235e8d3cc58747881167cd3742502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenIdleLandFast.fbx using Guid(e6a235e8d3cc58747881167cd3742502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b7491b79fc385b09550f4aa80fc42f') in 10.098300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/UICanvas.prefab
+  artifactKey: Guid(eb72f36523dcf684f9ca37da45adfa76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/UICanvas.prefab using Guid(eb72f36523dcf684f9ca37da45adfa76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d2b358123cbc94f247639babc883b7') in 6.552998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Cyberpunk_Liminal_Space_Dungon_SethIRichards.unity
+  artifactKey: Guid(a8a8ead1b00533142b4c6309b9057026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cyberpunk_Liminal_Space_Dungon_SethIRichards.unity using Guid(a8a8ead1b00533142b4c6309b9057026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '655c8cdba0d0aee021c681e6ef179a0c') in 5.611625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo1.fbx
+  artifactKey: Guid(3aeb280aa07caa148891a47a136fcee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo1.fbx using Guid(3aeb280aa07caa148891a47a136fcee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe855e9b169857188ec47e459a4d2f81') in 9.963636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/3DGamekitLite/Prefabs/VFX/Weapons/HitParticle.prefab
+  artifactKey: Guid(400e06051701a8c4998087ae421728e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/VFX/Weapons/HitParticle.prefab using Guid(400e06051701a8c4998087ae421728e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2034a0ca57b57625eee65a1bb43216c3') in 4.884902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/HealthCanvas.prefab
+  artifactKey: Guid(2d2745d2a8668e644a921a4848c9bc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/HealthCanvas.prefab using Guid(2d2745d2a8668e644a921a4848c9bc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7ddee3611eacb84d7d5e9ea844880c') in 0.195284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/InteractableDefault.mat
+  artifactKey: Guid(800b24209f6d71b4b8052577c60d3606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/InteractableDefault.mat using Guid(800b24209f6d71b4b8052577c60d3606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a146138b145ac3a310d304e2b2ff653') in 0.351342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend Height.mat
+  artifactKey: Guid(be7987e70322b40c2a8acb2592e4b0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend Height.mat using Guid(be7987e70322b40c2a8acb2592e4b0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765330a0fe5676b67cca4a668cf836f9') in 0.349518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend Bump.mat
+  artifactKey: Guid(99160b9aefaa07f4a9d94dfa649f5333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend Bump.mat using Guid(99160b9aefaa07f4a9d94dfa649f5333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd16df01eaad8ecb052b0d2201d193dc') in 9.245421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRunForwardLandingFast.fbx
+  artifactKey: Guid(74640275d27b66a4fa863f592bb4a792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRunForwardLandingFast.fbx using Guid(74640275d27b66a4fa863f592bb4a792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50555427c60a6d0253245feae7ec8b13') in 14.067236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/InvisibleFace.mat
+  artifactKey: Guid(978bbcf5050244f1b95128c04103f628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/InvisibleFace.mat using Guid(978bbcf5050244f1b95128c04103f628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03f64dd87f335e646c20a8143b5e65f') in 11.412979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Swish_Mat.mat
+  artifactKey: Guid(48505c163fc169d4fb42d6bdd7f9d5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Swish_Mat.mat using Guid(48505c163fc169d4fb42d6bdd7f9d5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8293ac7be0904cb9771c24d5982cf8e') in 19.619287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit3.fbx
+  artifactKey: Guid(ea28880f3c432b74ba40f56c53f03139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit3.fbx using Guid(ea28880f3c432b74ba40f56c53f03139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6d7adf24b4b4054e956b45aa7fd868') in 14.440968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish03.fbx
+  artifactKey: Guid(1ec47ea20a5da894fb197328ca705bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish03.fbx using Guid(1ec47ea20a5da894fb197328ca705bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae1a671cd4080168b811295eeab9e273') in 13.174255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/CrystalActive.mat
+  artifactKey: Guid(88bd03dac51a8994685638d905c4edcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/CrystalActive.mat using Guid(88bd03dac51a8994685638d905c4edcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a74673c3f99ea479c8968dd07ad4b49') in 0.367827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/3DGamekitLite/Prefabs/SceneControl/SceneControllerWrapper.prefab
+  artifactKey: Guid(6ab022b1875c5e74dadfc57ea3a6716b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/SceneControl/SceneControllerWrapper.prefab using Guid(6ab022b1875c5e74dadfc57ea3a6716b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007880bae9f91dd539c0668a34d565b5') in 0.164827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorHDRP.mat
+  artifactKey: Guid(c35693c079f3840f7938a4a323096e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorHDRP.mat using Guid(c35693c079f3840f7938a4a323096e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab2718fdb59a566543d15aa0fea3eeb') in 0.344527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Medium.ttf
+  artifactKey: Guid(d151d0faf225b2f41be85322a8c28666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Medium.ttf using Guid(d151d0faf225b2f41be85322a8c28666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c195d56f15c97651e339371d4c46982') in 0.375529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
+  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e5402df3ba6997afeb4e074ac5eb80') in 0.192135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/FaderCanvas.prefab
+  artifactKey: Guid(1f09fc5337e36764a8627d149bc1c54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/FaderCanvas.prefab using Guid(1f09fc5337e36764a8627d149bc1c54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e8f0e14de14b3ead439a0188ee90fe') in 0.163059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/Trigger.mat
+  artifactKey: Guid(a1e97cbf2538241b691aae8243b5fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/Trigger.mat using Guid(a1e97cbf2538241b691aae8243b5fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d1aa4e12ee16d78ec5ac66c60c0c93') in 1.097226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/River Basin.prefab
+  artifactKey: Guid(a1c141a6fc28ec344a8082494773f88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/River Basin.prefab using Guid(a1c141a6fc28ec344a8082494773f88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbbd1891a7b94ac84766cd18560391ac') in 26.605042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/AcidParticles.mat
+  artifactKey: Guid(4ae7638f334b82644a9c3755ec4a1c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/AcidParticles.mat using Guid(4ae7638f334b82644a9c3755ec4a1c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477f3745450edff91389d11551c12894') in 0.274520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac55919a381f9137839d023b3c8a030') in 0.483808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/3DGamekitLite/Gizmos/Cinemachine
+  artifactKey: Guid(d261101649ab5a642b487823ec2076e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Gizmos/Cinemachine using Guid(d261101649ab5a642b487823ec2076e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97236573c7564b0c217315e1298e926e') in 0.156668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips
+  artifactKey: Guid(96768fda5883bbf44868bd20bdccc6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips using Guid(96768fda5883bbf44868bd20bdccc6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd126306c14eed32be4f67d8068a35e49') in 0.768229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit2.fbx
+  artifactKey: Guid(d923bfbf69372aa46bdc5d794fe3dde2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit2.fbx using Guid(d923bfbf69372aa46bdc5d794fe3dde2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd59d3bdfeed03fbe89836ae91b4f448e') in 0.370049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRandomIdle2.fbx
+  artifactKey: Guid(da8a135eea6ec3c4ea78d2932814c4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRandomIdle2.fbx using Guid(da8a135eea6ec3c4ea78d2932814c4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '612849a5b5fb7e886e3d990f8d246404') in 0.365525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Respawn_Particle_Mat.mat
+  artifactKey: Guid(b86bedba3016387469ab3ac227a45992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Respawn_Particle_Mat.mat using Guid(b86bedba3016387469ab3ac227a45992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cfa97c614cc2bd87b972a49ca01f787') in 0.324814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenQuickTurnLeft.fbx
+  artifactKey: Guid(a9d04fff68c607a4e88339bdff08268e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenQuickTurnLeft.fbx using Guid(a9d04fff68c607a4e88339bdff08268e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971464f36fcae5f268bd81966ce896f5') in 2.510178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/ProBuilderDefault.mat
+  artifactKey: Guid(c22777d6e868e4f2fb421913386b154e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/ProBuilderDefault.mat using Guid(c22777d6e868e4f2fb421913386b154e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7863cc5d5556138da4622c333363874') in 0.492859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Icosphere (Smooth).prefab
+  artifactKey: Guid(022860b081ccbeb40aa30a690e99f2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Icosphere (Smooth).prefab using Guid(022860b081ccbeb40aa30a690e99f2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6dca5c72350ff49684366825ff1b9f6') in 0.342057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/EdgePickerHDRP.mat
+  artifactKey: Guid(980c24c5a501a9a429356d191ad356a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/EdgePickerHDRP.mat using Guid(980c24c5a501a9a429356d191ad356a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c38a9bb20bfd6ff488ebf39a9976bc') in 0.348077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Bold.ttf
+  artifactKey: Guid(3f33109a773074647bf9153825f5d0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Bold.ttf using Guid(3f33109a773074647bf9153825f5d0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad020bc78eab2cdca2e02b0743c0d8d0') in 0.324219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/EdgePicker.mat
+  artifactKey: Guid(4ff996e3a0a5743a3987ab6231160665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/EdgePicker.mat using Guid(4ff996e3a0a5743a3987ab6231160665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e78666c83c2e06422a5d00e4f74e5d') in 0.324294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/Collider.mat
+  artifactKey: Guid(bbb235fff4f48426b863b36058ab66d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/Collider.mat using Guid(bbb235fff4f48426b863b36058ab66d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c48e5e02de29fa14826cb4ad3a15be') in 0.340834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Materials/Acid_Bubble_Mat.mat
+  artifactKey: Guid(607cc577b99f05d45a129d7739042bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Materials/Acid_Bubble_Mat.mat using Guid(607cc577b99f05d45a129d7739042bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146bdb3c7bac015f88a84a7ddc2e68ed') in 0.355404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/NoDraw.mat
+  artifactKey: Guid(8cb4d6fee77fd4ee6895f08b240d625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/NoDraw.mat using Guid(8cb4d6fee77fd4ee6895f08b240d625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51933ef92bb738d7a8a6416ed6f34ad') in 0.403716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Unlit Color.mat
+  artifactKey: Guid(b0888153071a41144b939929d5969e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Unlit Color.mat using Guid(b0888153071a41144b939929d5969e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eef76542b4a578bb341d43b1ff7f39e') in 1.169754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000774 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Bold SDF.asset
+  artifactKey: Guid(e85f1cf0bfd4d1447bed2bc737c47be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Bold SDF.asset using Guid(e85f1cf0bfd4d1447bed2bc737c47be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb968033ca3b6e9ee46078c3da8e5283') in 0.936988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Regular.ttf
+  artifactKey: Guid(09e331ca2f11a354696f42260d750f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani/Rajdhani-Regular.ttf using Guid(09e331ca2f11a354696f42260d750f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c59bab8828314e9dc3567e888cdaf5') in 0.407687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-SemiBold SDF.asset
+  artifactKey: Guid(4c1f115f2c9b80b4cabb22cae230db1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-SemiBold SDF.asset using Guid(4c1f115f2c9b80b4cabb22cae230db1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed15a33f7392d9de2cd83f3b8533f5bc') in 5.540877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-SemiBold SDF UIButton.mat
+  artifactKey: Guid(c64de538f27a5b342a025d5db50d19cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-SemiBold SDF UIButton.mat using Guid(c64de538f27a5b342a025d5db50d19cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb570fb07125748053c356f0cd31bf08') in 11.546404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0fda9628b1219bef241e0b5020e1b7c') in 10.974617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/UI/HUD
+  artifactKey: Guid(79c64456babdbb1419b3184e37dc6f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/UI/HUD using Guid(79c64456babdbb1419b3184e37dc6f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfbf931651b047b22004195c1e921e3') in 2.394466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenIdle.fbx
+  artifactKey: Guid(83b647f9ffea82b4a9680e016dec2197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenIdle.fbx using Guid(83b647f9ffea82b4a9680e016dec2197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92feb32bc44ef1ddc0dfc08fac5f54a6') in 0.362594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/UI
+  artifactKey: Guid(6c62be8a5431eae4a9ee4371aab8d4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/UI using Guid(6c62be8a5431eae4a9ee4371aab8d4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edeac2758f2ead0d85f36c6bf9bf6bd3') in 0.634358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Weapons/@Staff_Combo01.fbx
+  artifactKey: Guid(db21481ab80b79044941866818bbd8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Weapons/@Staff_Combo01.fbx using Guid(db21481ab80b79044941866818bbd8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a6c84b4cca29ed517803d27eaa4eae') in 9.504295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenDeath.fbx
+  artifactKey: Guid(75c0b8ca7a51b3544a4af8381af8db0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenDeath.fbx using Guid(75c0b8ca7a51b3544a4af8381af8db0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a361ce48233d4331c87c93791eb16655') in 5.319663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/MenuCanvases.prefab
+  artifactKey: Guid(b18f8976219e1754dba4931c56a32810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/MenuCanvases.prefab using Guid(b18f8976219e1754dba4931c56a32810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbb20506fb757b5cf0becaa5ebad0c23') in 6.859230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Particle_Trail_Mat.mat
+  artifactKey: Guid(fff934583a5bbd74d88f71ba52a91af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Particle_Trail_Mat.mat using Guid(fff934583a5bbd74d88f71ba52a91af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f47759b0530c5a98ab7f9735470888') in 7.759425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitLeft.fbx
+  artifactKey: Guid(e9ceeb0bdca44b94a8aaefe78d7107cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitLeft.fbx using Guid(e9ceeb0bdca44b94a8aaefe78d7107cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc82d2da53e82124a6bc8547dd44b13') in 6.963551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenJump.fbx
+  artifactKey: Guid(1bbe72df8c2b6af46bfbadad72175372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenJump.fbx using Guid(1bbe72df8c2b6af46bfbadad72175372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36248e1510c6b0ed3d326a8d1aa6ea5') in 1.014876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo3.fbx
+  artifactKey: Guid(d0d401bb3fc68574296f7ff69e81546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenCombo3.fbx using Guid(d0d401bb3fc68574296f7ff69e81546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711544d895ba0c87f6c0ce2ae1dd7ef5') in 0.407121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish02.fbx
+  artifactKey: Guid(80b619c9fed1e3945a48aa40f8639407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish02.fbx using Guid(80b619c9fed1e3945a48aa40f8639407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc9bbe01c77fb1468cd96184de72ebb') in 0.358366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit4.fbx
+  artifactKey: Guid(79010052a8a8d57429c67f68dab3478f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit4.fbx using Guid(79010052a8a8d57429c67f68dab3478f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64be0edf24214e9d8cf0191194c9ca11') in 0.384696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitBackRight.fbx
+  artifactKey: Guid(b895cfd7745f48346bc5b542aa1a0e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitBackRight.fbx using Guid(b895cfd7745f48346bc5b542aa1a0e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b19f7dd2b5348d6dbd80a61274b9cb') in 0.412284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Characters/Spitter/Spitter_Body_Mat.mat
+  artifactKey: Guid(0ef55e615d8ada44085ccce2062b647d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Characters/Spitter/Spitter_Body_Mat.mat using Guid(0ef55e615d8ada44085ccce2062b647d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263b3081e9c4a82b4c14809d5ea6fa34') in 0.335016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenWalkForward.fbx
+  artifactKey: Guid(9d703e84815204b499c34db7f9ec5cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenWalkForward.fbx using Guid(9d703e84815204b499c34db7f9ec5cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef04ad6a5cb3810fa5e8008aef20ec84') in 0.405073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/FacePicker.mat
+  artifactKey: Guid(5695904020f064fdab5ad265b274a616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/FacePicker.mat using Guid(5695904020f064fdab5ad265b274a616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1fc371323bdc084c12aa593df9e044') in 0.337236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/3DGamekitLite/Art/Animations
+  artifactKey: Guid(c93cad7996d9564479413a3a26522ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations using Guid(c93cad7996d9564479413a3a26522ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '085efa30a45ae01be6b6c66064b72624') in 0.155672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/VertexPicker.mat
+  artifactKey: Guid(30a8575e1d4cc4e01a88ffbf4f973d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/VertexPicker.mat using Guid(30a8575e1d4cc4e01a88ffbf4f973d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6defb3b6030bcfe3f25f07861c8c5e') in 0.350085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/DestructableBox.mat
+  artifactKey: Guid(70bbbafb8fc3c5142b21f29a35510495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/DestructableBox.mat using Guid(70bbbafb8fc3c5142b21f29a35510495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839ff14f5d5a6448f8e790a0dd3d7ca7') in 0.373429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Sphere.obj
+  artifactKey: Guid(a5894021cd5b1b145ae3a0f880eb84ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Sphere.obj using Guid(a5894021cd5b1b145ae3a0f880eb84ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07be5a67fd2015baaf815833c224b014') in 1.185067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Ellen_Body_Respawn_Mat.mat
+  artifactKey: Guid(cd5081c8394c64043959b5343ab41b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Ellen_Body_Respawn_Mat.mat using Guid(cd5081c8394c64043959b5343ab41b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3c836d3f58ca8b4e6903f4d8ad73f12') in 6.368929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Characters/Ellen/Ellen_Body_Mat.mat
+  artifactKey: Guid(46ba9be6c4545f148aeea969a1f0bc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Characters/Ellen/Ellen_Body_Mat.mat using Guid(46ba9be6c4545f148aeea969a1f0bc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed6083275bbe0b5adb57bc149bce4a5') in 0.907334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/TriPlanar Texture Blend Legacy.mat
+  artifactKey: Guid(3f565e33b40bc8b4dbe6e7ce597c92d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/TriPlanar Texture Blend Legacy.mat using Guid(3f565e33b40bc8b4dbe6e7ce597c92d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549a8451b260969632efca590ccc0808') in 4.291497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/PressurePad.mat
+  artifactKey: Guid(f1f0c8df45219aa47b3e73e4c7a05b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/PressurePad.mat using Guid(f1f0c8df45219aa47b3e73e4c7a05b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02830e6ddb4ae971ac8138efd14080a') in 9.015277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/Crystal.mat
+  artifactKey: Guid(df0772d96ef59654380a0090bf20a11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/Crystal.mat using Guid(df0772d96ef59654380a0090bf20a11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34004a1142c0d5e497fd06ad9b08324d') in 2.500984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Characters/Ellen/Ellen.fbx
+  artifactKey: Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Characters/Ellen/Ellen.fbx using Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a7a6790991b26b40251f223d636a88') in 10.675592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend Modulate.mat
+  artifactKey: Guid(d735613a999f147319397d413c99a2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Standard Texture Blend Modulate.mat using Guid(d735613a999f147319397d413c99a2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615420e4760528e997bec45a1bebaf76') in 4.855425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/LoadingCanvas.prefab
+  artifactKey: Guid(83d0619896c6b844c852388c2502727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/LoadingCanvas.prefab using Guid(83d0619896c6b844c852388c2502727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ec43394410786243fe5baa99562a04') in 2.176499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Soft_Round_Particle_Mat.mat
+  artifactKey: Guid(82a7b841a67e01c4ebb2e73662c7d17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Soft_Round_Particle_Mat.mat using Guid(82a7b841a67e01c4ebb2e73662c7d17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddccf1547ceb2b11c2ebc7a04da9138c') in 7.260487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitBackLeft.fbx
+  artifactKey: Guid(d23b5a928bc7a32438c1c802c144007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitBackLeft.fbx using Guid(d23b5a928bc7a32438c1c802c144007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2783dfbe005b2f88e9578ed475506e1') in 0.393501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorLWRP.mat
+  artifactKey: Guid(077a003b1de1e4c35923be7a21b5d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorLWRP.mat using Guid(077a003b1de1e4c35923be7a21b5d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9e9097c3de104f3be47e63bd3fd0ca') in 0.325075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Icosphere (Hard).prefab
+  artifactKey: Guid(eb4e129c281dbf2429b5bffbf2caac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Meshes/Icosphere (Hard).prefab using Guid(eb4e129c281dbf2429b5bffbf2caac0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5e957a314e526b96313644d46c3e67') in 0.372990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/Door.mat
+  artifactKey: Guid(86760222214270d469faea8c356cc4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/Door.mat using Guid(86760222214270d469faea8c356cc4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e24039073db511d0b87f4c7df77887') in 0.917601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Hit_Particle_01_Mat.mat
+  artifactKey: Guid(69ff5c7ce0ae4e848b4be56f3b4d40b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Effects/Characters/Ellen/Staff_Hit_Particle_01_Mat.mat using Guid(69ff5c7ce0ae4e848b4be56f3b4d40b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b924d2afe456f92faf5ce314ccbcc4d') in 0.322573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Light SDF.asset
+  artifactKey: Guid(f3796d9a9d76b5545be8f4d3e74ffd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Light SDF.asset using Guid(f3796d9a9d76b5545be8f4d3e74ffd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0552a1299a1eebc42c9369181fc20b52') in 0.418059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Medium SDF.asset
+  artifactKey: Guid(4f372c329adda324b8e34cc0e26c4cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Medium SDF.asset using Guid(4f372c329adda324b8e34cc0e26c4cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f440f8425470b647f92408c5dd0b4985') in 0.365008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Weapons/Staff.fbx
+  artifactKey: Guid(ffae9263bd1a66245bd2bad16f271364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Weapons/Staff.fbx using Guid(ffae9263bd1a66245bd2bad16f271364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028b87d128d4050db0cfdffb441e9664') in 0.330160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRandomIdle1.fbx
+  artifactKey: Guid(e7f8d149f8d7e5242a52e530f0782e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenRandomIdle1.fbx using Guid(e7f8d149f8d7e5242a52e530f0782e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb55bce5b1845ca1a20185f7cd57b536') in 0.375397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenSpawn.fbx
+  artifactKey: Guid(118c1440644eccb46ba5d8a2657a9556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenSpawn.fbx using Guid(118c1440644eccb46ba5d8a2657a9556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de1770883b13b6f6610236f12036c2d') in 0.406492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Weapons/Pistol.fbx
+  artifactKey: Guid(d9951ecbd04e28f4db3eb8ddb3775842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Weapons/Pistol.fbx using Guid(d9951ecbd04e28f4db3eb8ddb3775842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea1f9f0ff6057962868e2ce72e776e65') in 0.956545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Texture Blend Mobile.mat
+  artifactKey: Guid(1781eafb8424509479a7e7861e27230b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/ProCore/Polybrush/Materials/Texture Blend Mobile.mat using Guid(1781eafb8424509479a7e7861e27230b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a1a13d1cf199078e92260d650a5936') in 0.286328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Characters/Chomper/Chomper_Body_Mat.mat
+  artifactKey: Guid(dad26cc8af5eca141b973d06942e6efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Characters/Chomper/Chomper_Body_Mat.mat using Guid(dad26cc8af5eca141b973d06942e6efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff5b985349723b49ef54ae58c59b9b7') in 0.330491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish04.fbx
+  artifactKey: Guid(11c087975cd488d4d89b7d258ab2958a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish04.fbx using Guid(11c087975cd488d4d89b7d258ab2958a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3977205494561ceee75af69f54b7674f') in 1.096606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitRight.fbx
+  artifactKey: Guid(354357235aca8884584fd41a973a3882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Ellen/@EllenHitRight.fbx using Guid(354357235aca8884584fd41a973a3882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781468a2935bf281b66944c55603b289') in 0.405467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish01.fbx
+  artifactKey: Guid(3258ac576c7b9134ab8958477ba169cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Models/Effects/Ellen_Staff_Swish01.fbx using Guid(3258ac576c7b9134ab8958477ba169cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6fcd552a0fc8e79fd912642e928ed1') in 0.317355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3DGamekitLite/Prefabs/UIPrefabs/DialogueCanvas.prefab
+  artifactKey: Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Prefabs/UIPrefabs/DialogueCanvas.prefab using Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a01fcc9642c53ec0546c64adb31e6e5') in 4.819144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit1.fbx
+  artifactKey: Guid(4fc6949e6b7737f4da8cd2e1ce1d66f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Animations/AnimationClips/Characters/Enemies/Chomper/@ChomperHit1.fbx using Guid(4fc6949e6b7737f4da8cd2e1ce1d66f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25800cfb86340fa661fc49aca0d1bb19') in 9.902706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrate.mat
+  artifactKey: Guid(22b2ccd5ff7443c45826207673523173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrate.mat using Guid(22b2ccd5ff7443c45826207673523173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7667d46558f32375989b46ca54538cc9') in 1.851586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Regular SDF.asset
+  artifactKey: Guid(af61af49f0b8bfa4f8e084fbc3563b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/TextMesh Pro/Fonts/Rajdhani-Regular SDF.asset using Guid(af61af49f0b8bfa4f8e084fbc3563b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae03725d31a2dfdbe24a99cf88c4bdf') in 10.060550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/3DGamekitLite/Packages/WorldBuilding/Prefabs/Cube.prefab
+  artifactKey: Guid(8b64b5bee08284f6c859b69acb6b3d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekitLite/Packages/WorldBuilding/Prefabs/Cube.prefab using Guid(8b64b5bee08284f6c859b69acb6b3d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65980a1aeb8562c68a8715264ed0cb02') in 2.449784 seconds 
