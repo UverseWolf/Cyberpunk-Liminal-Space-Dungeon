@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Cyberpunk_Liminal_Space_Dungon_SethIRichards.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
